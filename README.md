@@ -11,3 +11,5 @@ Wanted to learn how to use external binaries in Java programs.
 ```
 java -jar export-images.jar path/to/pdf/file
 ```
+
+(for Windows compatible version see [here](https://github.com/pgram1/Pdf-image-Exporter/releases/tag/v1.1))
