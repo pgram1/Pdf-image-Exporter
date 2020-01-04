@@ -1,3 +1,5 @@
+# Part of old coursework, not working on it anymore
+
 # Pdf-image-Exporter
 
 Crude Java utility/script that uses [Pdfimages](https://en.wikipedia.org/wiki/Pdfimages) to extract all images from a PDF document in ~~PNG~~ GIF format.
